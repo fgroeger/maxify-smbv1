@@ -41,4 +41,4 @@ EXPOSE 137/udp
 EXPOSE 138/tcp
 EXPOSE 138/udp
 
-CMD ["sudo", "-E", "smbd", "--foreground", "--log-stdout", "--no-process-group"]
+CMD ["sudo", "-E", "smbd", "--foreground", "--no-process-group"]
