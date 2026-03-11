@@ -1,5 +1,5 @@
 # maxify-smbv1
-Samba v1 image for Canon Maxify scanners
+Samba v1 image for Canon Maxify scanners. Working on Raspberry Pi.
 
 # Motivation
 Canon Maxify MFPs like the Maxify MB5150 have a excellent duplex scanning engine, but are - beside sending eMails - limited to store scans on SMB v1 shares.
